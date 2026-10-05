@@ -1,4 +1,5 @@
-# Project Title - Student Grade Calculator
+# Project Title 
+  Student Grade Calculator
 
 A Short description of what this project does and who it's for.
 
